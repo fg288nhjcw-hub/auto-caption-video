@@ -1,0 +1,5 @@
+interface:
+  display_name: "自动字幕与视频版式优化"
+  short_description: "从原始视频自动生成字幕、优化版面设计并渲染最终成片"
+  default_prompt: "使用 $auto-caption-video 为这个视频生成准确字幕、优化画面版式并输出最终成片。"
+
