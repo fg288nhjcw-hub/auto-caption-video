@@ -1,0 +1,21 @@
+{
+  "name": "auto-caption-video",
+  "version": "0.1.0",
+  "description": "Transcribe videos, create subtitles, optimize social-video layouts, and render a polished final cut.",
+  "author": {
+    "name": "Amy Chen",
+    "url": "https://github.com/fg288nhjcw-hub"
+  },
+  "repository": "https://github.com/fg288nhjcw-hub/auto-caption-video",
+  "homepage": "https://github.com/fg288nhjcw-hub/auto-caption-video",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Auto Caption Video",
+    "shortDescription": "Create polished, captioned social videos.",
+    "longDescription": "Automatically transcribe video, generate timed subtitles, trim silence, improve vertical or landscape layouts, and render a finished captioned MP4.",
+    "developerName": "Amy Chen",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use $auto-caption-video to transcribe this video, add readable subtitles, improve its layout, and render the final cut."
+  }
+}
